@@ -1,0 +1,11 @@
+<component name="libraryTable">
+  <library name="dms">
+    <CLASSES>
+      <root url="jar://F:/DBlib/lib/dms.jar!/" />
+      <root url="jar://F:/DBlib/lib/ojdbc7.jar!/" />
+      <root url="jar://F:/DBlib/lib/ojdbc7dms.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>
