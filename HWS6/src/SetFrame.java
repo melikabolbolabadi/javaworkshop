@@ -58,7 +58,8 @@ SetApplicantFrame saf=new SetApplicantFrame();
     }
 
     @Override
-    public void actionPerformed(ActionEvent e) {
+    public void actionPerformed(ActionEvent e)
+    {
 
     }
 }
